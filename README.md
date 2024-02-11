@@ -24,7 +24,7 @@ Here are some notes to keep in mind while using the application:
 9. The door is represented as a servo motor with two opposite positions (ability to manage servo motor with two angles).
 10. The fan is represented as a DC motor.
 11. The fan is controlled by mapping the output distance from the ultrasonic to PWM signal.
-12. You can hear the alarm sound
+12. You can hear the alarm soundز
 13. You can stop the system at any time using the keypad.
 
 The project specifications are as follows:
