@@ -4,7 +4,7 @@ This application was implemented using ATMEGA32 microcontroller. It allows you t
 2. Lights control [ON - OFF - Control].
 3. Door control [Opened - Closed].
 4. Fan control [ON - OFF - Control].
-5. Set alarm time.
+5. Alarm time.
 6. Emergency button.
 
 The following components were used in this project:
@@ -24,7 +24,8 @@ Here are some notes to keep in mind while using the application:
 9. The door is represented as a servo motor with two opposite positions (ability to manage servo motor with two angles).
 10. The fan is represented as a DC motor.
 11. The fan is controlled by mapping the output distance from the ultrasonic to PWM signal.
-12. You can stop the system at any time using the keypad.
+12. You can hear the alarm sound
+13. You can stop the system at any time using the keypad.
 
 The project specifications are as follows:
 1. Using ADC peripheral to measure the output voltage from the LDR sensor and turning LED array based on the value.
