@@ -1,6 +1,4 @@
 # Mobile-Controlled-Home
-I’m thrilled to share my graduation project from IMT School. Recently, I successfully completed my Embedded Systems AVR Diploma.
-
 The project I worked on is a Mobile Controlled Home. Using an ATMEGA32 microcontroller, it enables you to control various aspects of your home through a mobile phone application via Bluetooth.
 
 The project has the following features:
