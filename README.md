@@ -40,3 +40,10 @@ The following tools were used in this project:
 1. Eclipse
 2. Proteus
 3. A mobile phone application that i created using App Inventor to control your smart home
+
+<div>
+<img src="![Uploading WhatsApp Image 2024-02-11 at 10.35.19 PM.jpeg…]()
+" width="200" heigh="200">
+  <img src="![photo_2024-02-12_03-27-50](https://github.com/HamsaRagheb/Mobile-Controlled-Home/assets/159721794/3be5efa5-985c-433a-8a73-232520260e5b)
+" width="200" heigh="200">
+<div>
