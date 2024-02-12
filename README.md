@@ -1,5 +1,9 @@
 # Mobile-Controlled-Home
-This application was implemented using ATMEGA32 microcontroller. It allows you to control your home through a mobile phone application via Bluetooth. The application has the following features:
+I’m thrilled to share my graduation project from IMT School. Recently, I successfully completed my Embedded Systems AVR Diploma.
+
+The project I worked on is a Mobile Controlled Home. Using an ATMEGA32 microcontroller, it enables you to control various aspects of your home through a mobile phone application via Bluetooth.
+
+The project has the following features:
 1. Login system using a keypad to enter user ID and password.
 2. Lights control [ON - OFF - Control].
 3. Door control [Opened - Closed].
@@ -13,18 +17,18 @@ The following components were used in this project:
 - MCU Peripherals: Timer, ICU, ADC, Interrupt, USART
 
 Here are some notes to keep in mind while using the application:
-1. You can start the system at any time using the keypad.
-2. The system supports 10 users with different IDs and passwords.
-3. You must enter the correct ID.
-4. In case of entering the password incorrectly 3 times, the system will give an alarm.
-5. Most of the system can work in parallel.
-6. The selected feature will be displayed on the LCD.
-7. Lights are represented as an LED array.
-8. The LED array is controlled by mapping the LDR sensor output voltage level to the number of ON LEDs.
-9. The door is represented as a servo motor with two opposite positions (ability to manage servo motor with two angles).
+1.  You can start the system at any time using the keypad.
+2.  The system supports 10 users with different IDs and passwords.
+3.  You must enter the correct ID.
+4.  In case of entering the password incorrectly 3 times, the system will give an alarm.
+5.  Most of the system can work in parallel.
+6.  The selected feature will be displayed on the LCD.
+7.  Lights are represented as an LED array.
+8.  The LED array is controlled by mapping the LDR sensor output voltage level to the number of ON LEDs.
+9.  The door is represented as a servo motor with two opposite positions (ability to manage servo motor with two angles).
 10. The fan is represented as a DC motor.
 11. The fan is controlled by mapping the output distance from the ultrasonic to PWM signal.
-12. You can hear the alarm soundز
+12. You can hear the alarm sound.
 13. You can stop the system at any time using the keypad.
 
 The project specifications are as follows:
@@ -38,4 +42,3 @@ The following tools were used in this project:
 1. Eclipse
 2. Proteus
 3. A mobile phone application that i created using App Inventor to control your smart home
-
